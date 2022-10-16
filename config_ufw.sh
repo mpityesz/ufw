@@ -29,7 +29,7 @@ ufw allow https/tcp
 
 
 ## FTP-like
-ufw allow sftp
+#ufw allow sftp ## port number: 22
 ufw allow ftps
 ufw allow 2121
 ufw allow 20000:20500/tcp
