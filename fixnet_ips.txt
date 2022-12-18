@@ -1,0 +1,52 @@
+## atlas.fixnet.hu
+79.172.195.155
+
+## woody.fixnet.hu
+87.229.111.223
+
+## mail.fixnet.hu
+87.229.111.226
+37.17.168.177
+
+## dexter.fixnet.hu
+80.77.123.131
+
+## nxi1.fixvps.hu
+80.77.112.234
+80.77.113.112
+
+## nxi2.fixvps.hu
+88.151.102.52
+
+## nxi3.fixvps.hu
+88.151.102.53
+
+## nexttime.fixvps.hu
+80.77.113.159
+
+## czeizelvps.fixnet.hu
+80.77.112.241
+80.77.113.119
+
+## ingatlanbank.fixvps.hu
+80.77.112.240
+
+## elektro.fixnet.hu
+80.77.112.239
+80.77.112.186
+80.77.113.140
+
+## database.fixnet.hu
+80.77.112.238
+
+## filesystem.fixvps.hu
+80.77.113.129
+
+## neg.fixvps.hu
+80.77.122.149
+
+## gvm.fixnet.hu
+80.77.112.232
+
+## hody.fixvps.hu
+80.77.112.79
